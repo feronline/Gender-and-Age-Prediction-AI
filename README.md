@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feronline
 - 👀 I’m interested in coding,game development and design
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning c#
 - 📫 How to reach me ferhattopcuoglu256@gmail.com
 
 <!---
